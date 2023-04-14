@@ -24,7 +24,7 @@
 
 📫 <b>How to reach me - </b> Mail me at - <i> bsaptyadeep@gmail.com <i>
 
-⚡ <b>Fun fact - </b> If am not at leetcode I am probably on the track 
+⚡ <b>Fun fact - </b> If am not at leetcode I am probably on the running track 
 
 ### Softwares, Languages, Libraries & Frameworks
 
