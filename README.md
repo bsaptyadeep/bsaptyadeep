@@ -18,7 +18,7 @@
 
 👨🏻‍💻 I’m looking to collaborate on React and Node roles
 
-🥅 <b>2022 Goals - </b> Contribute to Open Source projects, Make unique projects, Learn <b>Full Stack Web Development</b> and DSA
+🥅 <b>2023 Goals - </b> Contribute to Open Source projects, Make unique projects, Learn <b>Full Stack Web Development</b> and DSA
 
 💬 Ask me about tech-stacks web dev, algorithms
 
